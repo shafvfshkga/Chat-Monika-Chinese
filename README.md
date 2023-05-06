@@ -11,6 +11,7 @@
     https://github.com/Monika-After-Story/MonikaModDev
 环境
 ----
+    Windows11 x64
     python3.7+
     cuda
 使用方法
