@@ -1,6 +1,4 @@
 # Chat-Monika-Chinese
-Chat-Monika-Chinese
-====
 引用
 ----
 本项目使用axmol引擎制作<br>
