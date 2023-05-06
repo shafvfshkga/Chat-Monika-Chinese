@@ -3,11 +3,11 @@
 ----
     本项目使用axmol引擎制作
     https://github.com/axmolengine/axmol
-    语言模型取自<br>
+    语言模型取自
     https://huggingface.co/THUDM/chatglm-6b-int4
-    语音模型取自<br>
+    语音模型取自
     https://huggingface.co/spaces/zomehwh/vits-models
-    图像资源取自<br>
+    图像资源取自
     https://github.com/Monika-After-Story/MonikaModDev
 环境
 ----
