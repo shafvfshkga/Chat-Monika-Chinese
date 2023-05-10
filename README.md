@@ -12,14 +12,14 @@
 环境
 ----
     Windows11 x64
-    python3.7+
+    python3.9.13
     cuda
 使用方法
 ----
     下载Release.zip并解压
     从 https://huggingface.co/THUDM/chatglm-6b-int4/tree/main 下载pytorch_model.bin
     并将其放置在Release/chatglm-6b-in4下
-    安装python，本人使用python3.9.13
+    安装python
     安装cuda，本人使用cuda 11.8
     下载本项目requirements.txt，在同文件夹下使用命令pip install -r requirements.txt
     建议使用wheel安装torch和torchvision，
